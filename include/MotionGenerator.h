@@ -48,7 +48,7 @@
 #define MAX_ETA 1.6f //1.6
 #define MIN_ETA 0.8f
 #define BINARY_INPUT
-#define NUM_LIMIT 1                      // limit 
+#define NUM_LIMIT 3                      // limit 
 #define PI 3.14159265
 #define ANGLE_OFFSET -45
 
